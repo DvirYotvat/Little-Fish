@@ -1,4 +1,4 @@
-# Litle-Fish
+# little-Fish
 Mini game at C++
 
 In this litle game, you are a litlle fish that need to escape frome a 3 sharks.
