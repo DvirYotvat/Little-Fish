@@ -1,5 +1,5 @@
 
-// dvir yotvat 311212823
+// dvir yotvat 
 
 #include "wx/wx.h"
 #include <wx/timer.h>
